@@ -1,4 +1,6 @@
 
+%File similar to "bens_1.m" but makes two graphs out of 10 points, thus 5 points per graph
+
 %Set of points that will form a heart, but will be two different colors thus being two graphs in one
 P = [0 1 1 1.5 2 0.5 1.5 -1 0 -1; 0 -1 -1.5 -1 -2 0.5 -1 1.5 0 1];
 clf;  %Clear figures
